@@ -1,5 +1,7 @@
 # all about gulpjs
 
+1. https://github.com/gulpjs/gulp
+2. https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes
 1. http://gulpjs.com/plugins/
 2. https://github.com/gulpjs/gulp/blob/master/docs/API.md
 3. https://github.com/gulpjs/gulp/blob/master/docs/README.md#articles
