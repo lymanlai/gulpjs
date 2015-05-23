@@ -3,7 +3,6 @@
 1. http://gulpjs.com/plugins/
 2. https://github.com/gulpjs/gulp/blob/master/docs/API.md
 3. https://github.com/gulpjs/gulp/blob/master/docs/README.md#articles
-4. 
 
 # code snipping
 
